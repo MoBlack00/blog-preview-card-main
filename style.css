@@ -24,6 +24,7 @@ body {
 
 a {
   color: unset;
+  text-decoration: none;
 }
 
 main {
@@ -99,8 +100,6 @@ main {
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
-  display: inline-block;
-  font-size: 2.4rem;
   text-decoration: none;
   color: var(--black);
 }
